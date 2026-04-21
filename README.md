@@ -13,7 +13,10 @@ The main goal of this project is to explore employee data and answer key busines
 - experience-based segmentation  
 
 ## Dataset
-The analysis is based on the `emp_record_table`.
+
+TThe project uses two datasets:
+- `emp_record_table.csv` — employee information
+- `data_science_team.csv` — team/department mapping.
 
 Before performing the analysis, a data quality check was conducted to identify potential issues, including:
 
