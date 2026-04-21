@@ -73,10 +73,13 @@ The analysis can support:
 
 ## Project Structure
 
+```
 employee-performance-mapping-sql/
 ├── README.md
 └── sql/
     └── employee_performance_mapping_portfolio.sql
+```
+
 
 ## Notes
 This repository is intended as a portfolio project demonstrating practical SQL skills in a structured business context. It focuses on combining data analysis with real-world problem-solving and clear communication of insights.
